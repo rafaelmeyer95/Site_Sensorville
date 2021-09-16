@@ -5,7 +5,7 @@
  
 No curso que realizei foi utilizado como exemplo a criação de um blog com o Django, portanto adaptei para a minha aplicação. Por este motivo existem apenas dois arquivos html principais, um deles referente a página inicial (home) e o outro com a formatação da página dos "posts", onde inseri as páginas da trajetória pessoal e da trajetória profissional.
 
-                    INSTRUÇÕES PARA RODAR A APLICAÇÃO
+                                                    INSTRUÇÕES PARA RODAR A APLICAÇÃO
 
 - É necessário ter instalado o python (de preferência a versão 3.9.7)
 - Após o download do zip do projeto e extração dos arquivos, abrir o cmd do windows (ou terminal em caso de distribuições linux) e navegar até a pasta onde se encontra o arquivo manage.py (cd ...\Site_Sensorville-master)
