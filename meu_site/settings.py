@@ -40,9 +40,7 @@ INSTALLED_APPS = [
     'bootstrapform',
     'ckeditor',
     'blog',
-    'accounts',
     'social',
-    'contact',
 ]
 
 MIDDLEWARE = [
